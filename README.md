@@ -10,4 +10,4 @@ It's used for various encoding/decoding, encrypting/decrypting and some other ex
 - URL encode/decode
 - AES encrypt/decrypt
 - MD5 hash calculation
-- RNG (Rnadom Number Generator)
+- RNG (Random Number Generator)
